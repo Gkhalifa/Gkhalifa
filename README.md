@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Gabriel 👋
+Computer Science student at CCSU specializing in Software Engineering with a minor in Networking Technology.
 
-<!--
-**Gkhalifa/Gkhalifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools
+- Java | JavaScript | HTML5 
+- CAD/CNC Modeling | Salesforce CRM
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Python
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/gabriel-khalifa-4848a8354
+- Email: Khalifa.ga67@gmail.com
