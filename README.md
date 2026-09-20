@@ -1,14 +1,16 @@
 # Hi, I'm Gabriel 👋
-Computer Science student at CCSU specializing in Software Engineering with a minor in Networking Technology.
+Computer Science student at CCSU specializing in Software Engineering 
+with a minor in Networking Technology.
 
 ## 🔧 Technologies & Tools
-- Java | JavaScript | HTML5 
+- Java | JavaScript | HTML5 | Python
 - CAD/CNC Modeling | Salesforce CRM
 
 ## 🌱 Currently Learning
-- Python
+- Java
 - Git & GitHub
+- Data Structures & Algorithms
 
 ## 📫 Connect with me
-- LinkedIn: www.linkedin.com/in/gabriel-khalifa-4848a8354
+- LinkedIn: [linkedin.com/in/gabrielkhalifa](https://linkedin.com/in/gabrielkhalifa)
 - Email: Khalifa.ga67@gmail.com
