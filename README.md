@@ -3,7 +3,7 @@ Computer Science student at CCSU specializing in Software Engineering
 with a minor in Networking Technology.
 
 ## 🔧 Technologies & Tools
-- Java | JavaScript | HTML5 | Python
+- JavaScript | HTML5 | Python | VS Code
 - CAD/CNC Modeling | Salesforce CRM
 
 ## 🌱 Currently Learning
